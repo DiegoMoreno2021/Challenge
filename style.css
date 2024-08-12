@@ -26,7 +26,7 @@ textarea {
     background-image: url('Imagenes/input.png');
     background-size: cover;
     background-position: center;
-    color: #000; /* Cambia el color del texto para que se vea sobre la imagen */
+    color: #000;
 }
 
 ::placeholder { color: #0A3871; }
@@ -37,7 +37,6 @@ textarea {
 .mensaje{
     height: 630px;
     background: white;
-    background-image: url("/imagenes/Muñeco.png");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -76,8 +75,8 @@ textarea {
     cursor: pointer;
     height: 67px;
     width: 328px;
-	background-image: url('file:///C:/Challenge/Imagenes/bot%C3%B3n-enc.png'); /* Reemplaza con la ruta correcta */
-    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el botón */
+	background-image: url('file:///C:/Challenge/Imagenes/bot%C3%B3n-enc.png');
+    background-size: cover; 
 
 }
 
